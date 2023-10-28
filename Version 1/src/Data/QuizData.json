@@ -1,0 +1,150 @@
+[
+    {
+      "index": 1,
+      "section": "Ad Strategy",
+      "question": "How would you describe your current target audience?",
+  
+      "answers": [
+        {
+          "text": "Well-defined and segmented",
+          "weightage": 10
+        },
+        {
+          "text": "Somewhat defined",
+          "weightage": 20
+        },
+        {
+          "text": "Not defined",
+          "weightage": 30
+        },
+        {
+          "text": "Can't say",
+          "weightage": 40
+        }
+      ],
+      "answertype": 1
+    },
+  
+    {
+      "index": 2,
+      "section": "Ad Strategy",
+      "question": "How often do you analyze ad campaign performance data?",
+      "answers": [
+        {
+          "text": "Daily",
+          "weightage": 10
+        },
+        {
+          "text": "Weekly",
+          "weightage": 20
+        },
+        {
+          "text": "Monthly or less",
+          "weightage": 30
+        }
+      ],
+      "answertype": 1
+    },
+    {
+      "index": 3,
+      "section": "Ad Strategy",
+      "question": "Are your ad campaigns aligned with your overall marketing goals?",
+      "answers": [
+        {
+          "text": "Completely",
+          "weightage": 10
+        },
+        {
+          "text": "Partially",
+          "weightage": 20
+        },
+        {
+          "text": "Not at all",
+          "weightage": 30
+        }
+      ],
+      "answertype": 1
+    },
+    {
+      "index": 4,
+      "section": "Ad Strategy",
+      "question": "Do you have a retargeting strategy for abandoned cart users?",
+      "answers": [
+        {
+          "text": "Yes",
+          "weightage": 10
+        },
+        {
+          "text": "No",
+          "weightage": 20
+        },
+        {
+          "text": "Can't say",
+          "weightage": 30
+        }
+      ],
+      "answertype": 1
+    },
+    {
+      "index": 5,
+      "section": "Ad Strategy",
+      "question": "How would you rate the effectiveness of your ad copy and visuals?",
+      "answers": [
+        {
+          "text": "Highly effective",
+          "weightage": 10
+        },
+        {
+          "text": "Moderately effective",
+          "weightage": 20
+        },
+        {
+          "text": "Ineffective",
+          "weightage": 30
+        }
+      ],
+      "answertype": 1
+    },
+    
+  
+    {
+      "index": 6,
+      "section": "Conversion & Online Sales",
+      "question": "Our product pages have clear and compelling product descriptions.",
+      "answers": {
+        "min": 1,
+        "max": 5,
+        "step": 0.5
+      },
+      "answertype": 1
+    },
+    {
+      "index": 7,
+      "section": "Conversion & Online Sales",
+      "question": "Do you have strategies to increase customer lifetime value (LTV)?",
+      "answers": [
+        {
+          "text": "Yes",
+          "weightage": 10
+        },
+        {
+          "text": "No",
+          "weightage": 20
+        }
+      ],
+      "answertype": 1
+    },
+    {
+      "index": 8,
+      "section": "Conversion & Online Sales",
+      "question": "We have a post-purchase follow-up strategy to encourage repeat sales.",
+      "answers": {
+        "min": 1,
+        "max": 5,
+        "step": 0.5
+      },
+      "answertype": 1
+    }
+  ]
+  
+  

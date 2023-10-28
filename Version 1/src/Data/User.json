@@ -1,0 +1,479 @@
+{
+    "id" : 1,
+    "name" : "Mr.A",
+    "email" : "email@someone.com",
+    "data": [
+    {
+      "index": 1,
+      "section": "ad Strategy",
+      "question": "How would you describe your current target audience?",
+      "answer": [
+        {
+          "text": "Well-defined and segmented",
+          "Weightage": 10
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "section": "ad Strategy",
+      "question": "How often do you analyze ad campaign performance data?",
+      "answer": [
+        {
+          "text": "Daily",
+          "Weightage": 20
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "section": "ad Strategy",
+      "question": "Are your ad campaigns aligned with your overall marketing goals?",
+      "answer": [
+        {
+          "text": "Not at all",
+          "Weightage": 15
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "section": "ad Strategy",
+      "question": "Do you have a retargeting strategy for abandoned cart users?",
+      "answer": [
+        {
+          "text": "Yes",
+          "Weightage": 25
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "section": "ad Strategy",
+      "question": "How would you rate the effectiveness of your ad copy and visuals?",
+      "answer": [
+        {
+          "text": "Somewhat effective",
+          "Weightage": 30
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "section": "ad Strategy",
+      "question": "Are your ad campaigns optimized for mobile users?",
+      "answer": [
+        {
+          "text": "Partially",
+          "Weightage": 20
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "section": "ad Strategy",
+      "question": "Do you use A/B testing to optimize ad creatives and copy based on different audience segments?",
+      "answer": [
+        {
+          "text": "Occasionally",
+          "Weightage": 35
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "section": "ad Strategy",
+      "question": "How often do you review and adjust your ad targeting criteria?",
+      "answer": [
+        {
+          "text": "Monthly",
+          "Weightage": 40
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "section": "ad Strategy",
+      "question": "How do you determine your ad budget allocation across different platforms?",
+      "answer": [
+        {
+          "text": "Data-driven approach",
+          "Weightage": 45
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "section": "ad Strategy",
+      "question": "Do you track and analyze the performance of your competitors' ads?",
+      "answer": [
+        {
+          "text": "Yes",
+          "Weightage": 50
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "section": "ad Strategy",
+      "question": "What is your strategy for ad remarketing or retargeting to re-engage potential customers?",
+      "answer": [
+        {
+          "text": "Sequential messaging",
+          "Weightage": 55
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "section": "ad Strategy",
+      "question": "Which platforms do you primarily advertise on?",
+      "answer": [
+        {
+          "text": "Facebook and Google Ads",
+          "Weightage": 60
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "section": "Marketing Message and Positioning",
+      "question": "Can you articulate your unique selling proposition (USP)?",
+      "answer": [
+        {
+          "text": "Yes",
+          "Weightage": 30
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "section": "Marketing Message and Positioning",
+      "question": "Do you have consistent messaging across all marketing channels?",
+      "answer": [
+        {
+          "text": "No",
+          "Weightage": 35
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "section": "Marketing Message and Positioning",
+      "question": "Are you effectively addressing customer pain points in your messaging?",
+      "answer": [
+        {
+          "text": "To some extent",
+          "Weightage": 25
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "section": "Marketing Message and Positioning",
+      "question": "Are you conducting competitor analysis for messaging and positioning?",
+      "answer": [
+        {
+          "text": "Occasionally",
+          "Weightage": 40
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "section": "Marketing Message and Positioning",
+      "question": "Is your messaging personalized for different customer segments or persona?",
+      "answer": [
+        {
+          "text": "Not really",
+          "Weightage": 15
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "section": "Marketing Message and Positioning",
+      "question": "Are you satisfied with your brand's online reputation and sentiment?",
+      "answer": [
+        {
+          "text": "Neutral",
+          "Weightage": 50
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "section": "Marketing Message and Positioning",
+      "question": "How would you describe your brand's current market positioning compared to competitors?",
+      "answer": [
+        {
+          "text": "Behind",
+          "Weightage": 10
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "section": "Marketing Message and Positioning",
+      "question": "Our marketing message effectively communicates our unique selling proposition (USP).",
+      "answer": [
+        {
+          "text": "Not really",
+          "Weightage": 15
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "section": "Marketing Message and Positioning",
+      "question": "We use storytelling in our marketing to create emotional connections.",
+      "answer": [
+        {
+          "text": "Occasionally",
+          "Weightage": 30
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "section": "Marketing Message and Positioning",
+      "question": "We use social proof (reviews, testimonials) to build trust.",
+      "answer": [
+        {
+          "text": "Not really",
+          "Weightage": 20
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "section": "Ad Budget Planning & Team",
+      "question": "Do you have a contingency budget for unforeseen marketing opportunities or crises?",
+      "answer": [
+        {
+          "text": "Yes",
+          "Weightage": 45
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "section": "Ad Budget Planning & Team",
+      "question": "What is your monthly ad budget for online channels? (lever/slider input)",
+      "answer": [
+        {
+          "text": "Varies",
+          "Weightage": 65
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "section": "Ad Budget Planning & Team",
+      "question": "Do you handle marketing activities in-house or through an agency?",
+      "answer": [
+        {
+          "text": "In-house",
+          "Weightage": 70
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "section": "Ad Budget Planning & Team",
+      "question": "Our budget allows for experimentation and testing.",
+      "answer": [
+        {
+          "text": "To some extent",
+          "Weightage": 55
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "section": "Ad Budget Planning & Team",
+      "question": "Our agency partnerships meet our expectations and goals.",
+      "answer": [
+        {
+          "text": "Not really",
+          "Weightage": 40
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "section": "Conversion & Online Sales",
+      "question": "What is your website's overall conversion rate?",
+      "answer": [
+        {
+          "text": "15%",
+          "Weightage": 50
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "section": "Conversion & Online Sales",
+      "question": "Are you actively monitoring website performance (e.g., page load times)?",
+      "answer": [
+        {
+          "text": "Occasionally",
+          "Weightage": 30
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "section": "Conversion & Online Sales",
+      "question": "How often do you update product descriptions and images to improve conversions?",
+      "answer": [
+        {
+          "text": "Monthly",
+          "Weightage": 35
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "section": "Conversion & Online Sales",
+      "question": "Are you leveraging customer reviews and ratings effectively to boost sales?",
+      "answer": [
+        {
+          "text": "To some extent",
+          "Weightage": 25
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "section": "Conversion & Online Sales",
+      "question": "Is your checkout process optimized for mobile users?",
+      "answer": [
+        {
+          "text": "Partially",
+          "Weightage": 40
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "section": "Conversion & Online Sales",
+      "question": "Do you use data analytics to identify and address conversion bottlenecks?",
+      "answer": [
+        {
+          "text": "Occasionally",
+          "Weightage": 45
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "section": "Conversion & Online Sales",
+      "question": "What is your current website's conversion rate (percentage)?",
+      "answer": [
+        {
+          "text": "20%",
+          "Weightage": 55
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "section": "Conversion & Online Sales",
+      "question": "Are you actively tracking and analyzing cart abandonment rates on your e-commerce site?",
+      "answer": [
+        {
+          "text": "Yes",
+          "Weightage": 60
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "section": "Conversion & Online Sales",
+      "question": "You are satisfied with your online sales growth in the last 6 months",
+      "answer": [
+        {
+          "text": "Not really",
+          "Weightage": 15
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "section": "Conversion & Online Sales",
+      "question": "Do you have cross-selling and upselling strategies in place?",
+      "answer": [
+        {
+          "text": "No",
+          "Weightage": 20
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "section": "Conversion & Online Sales",
+      "question": "Do you employ tactics to increase AOV (e.g., bundling, tiered pricing)?",
+      "answer": [
+        {
+          "text": "To some extent",
+          "Weightage": 25
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "section": "Conversion & Online Sales",
+      "question": "Do you have strategies to increase customer lifetime value (LTV)?",
+      "answer": [
+        {
+          "text": "Occasionally",
+          "Weightage": 30
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "section": "Conversion & Online Sales",
+      "question": "We use analytics to track user behavior and identify drop-off points.",
+      "answer": [
+        {
+          "text": "Yes",
+          "Weightage": 35
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "section": "Conversion & Online Sales",
+      "question": "Our product pages have clear and compelling product descriptions.",
+      "answer": [{
+        "text": "Yes",
+        "Weightage": 60
+      }
+  ]
+    },
+    {
+      "index": 42,
+      "section": "Conversion & Online Sales",
+      "question": "We offer multiple payment options to enhance the shopping experience.",
+      "answer": [{
+        "text": "Yes",
+        "Weightage": 65
+      }
+  ]
+    },
+    {
+      "index": 43,
+      "section": "Conversion & Online Sales",
+      "question": "We have a post-purchase follow-up strategy to encourage repeat sales.",
+      "answer": [
+        {
+        "text": "Yes",
+        "Weightage": 70
+      }
+      ]
+    }
+  ]
+}
+  

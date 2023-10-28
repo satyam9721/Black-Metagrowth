@@ -1,0 +1,229 @@
+.wrapper {
+    width: 100%;
+    min-height: 100vh;
+    /* background: linear-gradient(to bottom, #f6e1ab 10px, #f2f2f2 60%, #f6e1ab);
+    margin: 0 auto; */
+    overflow: hidden;
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+.dot{
+    background-color: #000;
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+.f_btn {
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    
+    text-color: #000a38;
+    background-color: #ffff00;
+    font-size: 1.25rem;
+    font-weight: 800;
+    padding: 0.9375rem 1.5625rem;
+    outline: none;
+    
+    margin-right: 0.625rem;
+    margin-bottom: 2rem;
+    -webkit-transition: 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+    transition: 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+}
+/* .f_btn:hover{
+    color: #f7f747;
+}
+.text-uppercase {
+    text-transform: uppercase!important;
+} */
+
+.rounded-pill {
+    border-radius: 50rem!important;
+}
+
+span {
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    padding-bottom: 1rem;
+    -webkit-transition: 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+    transition: 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+li {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    color: white;
+    
+    
+    
+    
+}
+
+/* .form_items {
+    content: "";
+    width: 1.7rem;
+    height: 1.7rem;
+    top: 50%;
+    left: 14px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    position: absolute;
+    border-radius: 100%;
+    border: 2px solid #e2e2e2;
+} */
+/* Add these styles to your CSS file */
+
+.slider-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+  }
+  
+  .slider-label {
+    font-size: 18px;
+    margin-bottom: 14px;
+    text-align: center;
+    color: #1e32ec;
+  }
+
+  
+  .custom-slider {
+    width: 100%; /* Set the width to 100% to cover the entire container */
+    appearance: none;
+    height: 10px; /* Adjust the height as needed */
+    background: #d8f004; /* Change the slider's color to your preference */
+    outline: none;
+    opacity: 0.9;
+    transition: opacity 0.4s;
+    cursor: pointer;
+    
+   
+  }
+  
+
+ 
+  
+ 
+  
+  .slider-output {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: center;
+    color: #0d09007e;
+  }
+
+
+ 
+  
+.label{
+    background-color: #f2f2f2;
+}
+
+/* white backgroud for options */
+.options {
+    background-color: rgb(1, 66, 172);
+    padding: 25px;
+    border-radius: 5px;
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    /* cursor: pointer; */
+    animation-name: optionsAnimation;
+    animation-duration: 1s; /* Adjust the animation duration as needed */
+  }
+  .options:hover{
+   background-color: rgba(1, 66, 172, 0.8); 
+  }
+@keyframes optionsAnimation {
+    0% {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .tag{}
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* creating animation */
+/* .box{
+    background-color: green;
+    width: 250px;
+    position: relative;
+    animation-name: harry1;
+    animation-name: harry2;
+    animation-duration: 3s;
+    
+    animation-iteration-count: 2;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-out;
+    animation-delay: 2s;
+    animation-direction: reverse;
+    animation: animation-name animation-duration animation-timing-function animation-dealy animation-iteration-count animation-fill-mode ;
+    animation: harry 5s ease-in 1s 12 backwards;
+}
+
+@keyframes harry1{
+    0%{
+top: 0px;
+left: 0px;
+
+    }
+    25%{
+        top: 250px;
+        left: 0px;
+
+    }
+    75%{
+        top: 250px;
+        left: 250px;
+
+    }
+    100%{
+        top: 0px;
+        left: 250px;
+
+    }
+} */
+
+
+
