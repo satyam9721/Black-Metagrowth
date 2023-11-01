@@ -4,6 +4,13 @@
   
   /* Style the form container */
   .contact {
+    @media (max-width: 767px) {
+      
+      background-color: #000; /* Darken the background on smaller screens */
+      margin-left: 200px;
+      font-size: 16px; /* Decrease the font size for readability on smaller screens */
+  }
+    
     
 
   }
